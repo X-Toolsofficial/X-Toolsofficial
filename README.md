@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @𓆩✞𝓒𝓲𝓭 𝓚𝓪𝓰𝓮𝓷𝓸𝓾✞𓆪
-- 👀 I’m working with C,C++ and Csharp
+- 👋 Hi, I’m 𓆩✞𝑺𝒖𝒌𝒖𝒏𝒂 𝑹𝒚𝒐𝒎𝒆𝒏✞𓆪
+- 👀 I’m working with C,C++,VB.net and Csharp
 - 🌱 I’m currently learning Java
 - 📫 you can reach me on my mail
