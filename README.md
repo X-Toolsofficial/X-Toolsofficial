@@ -1,4 +1,5 @@
 - 👋 Hi, I’m 𓆩✞𝑺𝒖𝒌𝒖𝒏𝒂 𝑹𝒚𝒐𝒎𝒆𝒏✞𓆪
+- ![Test](https://img.shields.io/badge/:badgeContent)
 - 👀 I’m working with C,C++,VB.net and Csharp
 - 🌱 I’m currently learning Java
 - 📫 you can reach me on my mail
